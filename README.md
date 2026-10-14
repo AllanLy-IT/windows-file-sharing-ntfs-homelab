@@ -35,8 +35,7 @@ Configured share permissions for:
 
 This configuration restricts network share access to authorized security groups.
 
-<img width="865" height="629" alt="01-share-permission" src="https://github.com/user-attachments/assets/723e89d8-aeea-40ef-b626-b0b88713b203" />
-
+![SMB Share Permissions](screenshots/01-share-permission.png)
 
 ## 2. NTFS Permissions Configuration
 
@@ -48,7 +47,7 @@ Preserved existing SYSTEM and Administrators permissions.
 
 The folder also retained inherited permissions from its parent directory.
 
-![NTFS Permissions](screenshots/02-ntfs-permissions.png)
+![NTFS Permissions](screenshots/02-ntfs-permission.png)
 
 ## 3. Active Directory Security Group Management
 
