@@ -94,6 +94,8 @@ Simulated a Help Desk request in which an employee required access to a shared d
 
 Used `whoami` to confirm the logged-in account was `homelab\restricteduser`.
 
+<img width="1890" height="379" alt="Screenshot 2026-10-13 214638" src="https://github.com/user-attachments/assets/41b65e07-17cc-4ac1-8cef-68e623e9d1f8" />
+
 ![Access Restored](screenshots/04-access-restored.png)
 
 ## 6. Share Permissions vs. NTFS Permissions
